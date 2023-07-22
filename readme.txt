@@ -3,7 +3,7 @@ Notes Generation App for Work Orders
 
 The Notes Generation App is a web application that allows you to create and copy notes with specific information such as date, time, tower and distance. The application is built using HTML and JavaScript, and can be accessed from any device with a web browser.
 
-The purpose of this app is to standardize note entries in ceres opps and work orders, reducing chances of errors or miscommunication.
+The purpose of this app is to standardize note entries tickets and work orders, reducing chances of errors or miscommunication.
 
 
 
